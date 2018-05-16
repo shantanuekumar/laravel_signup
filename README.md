@@ -12,6 +12,10 @@
   
  $ php artisan serve
 
-5.Run from localhost laravel_signup/user data/signup.html
+5.Run this command in the root of project folder to generate key
+
+$ php artisan key:generate
+
+6.Run from localhost laravel_signup/user data/signup.html
 
 
